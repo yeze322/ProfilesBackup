@@ -1,0 +1,9 @@
+call pathogen#infect()
+filetype plugin indent on
+
+
+:set number
+set hlsearch
+
+"This unsets the "last search pattern" register by hitting return
+nnoremap <CR> :noh<CR><CR>

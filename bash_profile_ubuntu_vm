@@ -1,0 +1,1 @@
+export PYTHONPATH=$PYTHONPATH:/home/yeze/Documents/caffe/python
